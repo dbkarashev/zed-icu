@@ -10,7 +10,7 @@
         "background.appearance": "transparent",
 
         "background": "#2a2a2ab8",
-        "surface.background": "#00000000",
+        "surface.background": "#2a2a2a",
         "elevated_surface.background": "#2f2f2ff2",
 
         "border": "#ffffff1a",
@@ -245,7 +245,7 @@
         "background.appearance": "transparent",
 
         "background": "#ffffffb8",
-        "surface.background": "#00000000",
+        "surface.background": "#ffffff",
         "elevated_surface.background": "#fbfbfbf2",
 
         "border": "#0000001f",
